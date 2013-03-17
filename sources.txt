@@ -1,6 +1,6 @@
 CONTENT {
 
-Kishan Mehrotra, Chilukuri K. Mohan, Sanjay Ranka (1997). Elements Of Artificial Neural Networks. Massachusetts Institute of Technology. p24-35.
+Kishan Mehrotra, Chilukuri K. Mohan, Sanjay Ranka (1997). Elements Of Artificial Neural Networks. Massachusetts Institute of Technology. p24-29.
 
 }
 
