@@ -1,0 +1,13 @@
+CONTENT {
+
+Kishan Mehrotra, Chilukuri K. Mohan, Sanjay Ranka (1997). Elements Of Artificial Neural Networks. Massachusetts Institute of Technology. p24-35.
+
+}
+
+IMAGES {
+
+http://www.image-restore.co.uk/blog/wp-content/jpeg_compression.jpg (http://www.image-restore.co.uk/blog/saving-your-images-correctly/)
+http://www.codeproject.com/KB/dotnet/simple_ocr/image001.jpg (http://www.codeproject.com/Articles/3907/Creating-Optical-Character-Recognition-OCR-applica)
+http://www.pricepatternprediction.com/f3.gif (http://www.pricepatternprediction.com/)
+
+}
