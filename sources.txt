@@ -1,6 +1,7 @@
 CONTENT {
 
 Kishan Mehrotra, Chilukuri K. Mohan, Sanjay Ranka (1997). Elements Of Artificial Neural Networks. Massachusetts Institute of Technology. p24-29.
+http://sharesforcast.googlecode.com/svn-history/r77/nn.pdf, accessed 17/03/13.
 
 }
 
