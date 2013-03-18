@@ -1,7 +1,17 @@
 CONTENT {
 
 Kishan Mehrotra, Chilukuri K. Mohan, Sanjay Ranka (1997). Elements Of Artificial Neural Networks. Massachusetts Institute of Technology. p24-29.
+
 http://sharesforcast.googlecode.com/svn-history/r77/nn.pdf, accessed 17/03/13.
+
+Michael J. Ryan, John F. Arnold, Lossy compression of hyperspectral data using vector quantization, Remote Sensing of Environment, Volume 61, Issue 3, September 1997, Pages 419-436, ISSN 0034-4257, 10.1016/S0034-4257(97)00054-0.
+(http://www.sciencedirect.com/science/article/pii/S0034425797000540)
+
+Stanley C. Ahalt, Ashok K. Krishnamurthy, Prakoon Chen, Douglas E. Melton, Competitive learning algorithms for vector quantization, Neural Networks, Volume 3, Issue 3, 1990, Pages 277-290, ISSN 0893-6080, 10.1016/0893-6080(90)90071-R.
+(http://www.sciencedirect.com/science/article/pii/089360809090071R)
+
+A. Rajavelu, M.T. Musavi, M.V. Shirvaikar, A neural network approach to character recognition, Neural Networks, Volume 2, Issue 5, 1989, Pages 387-393, ISSN 0893-6080, 10.1016/0893-6080(89)90023-3.
+(http://www.sciencedirect.com/science/article/pii/0893608089900233)
 
 }
 
