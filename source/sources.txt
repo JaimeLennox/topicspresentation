@@ -13,6 +13,8 @@ Stanley C. Ahalt, Ashok K. Krishnamurthy, Prakoon Chen, Douglas E. Melton, Compe
 A. Rajavelu, M.T. Musavi, M.V. Shirvaikar, A neural network approach to character recognition, Neural Networks, Volume 2, Issue 5, 1989, Pages 387-393, ISSN 0893-6080, 10.1016/0893-6080(89)90023-3.
 (http://www.sciencedirect.com/science/article/pii/0893608089900233)
 
+https://www.comp.glam.ac.uk/digimaging/neural.htm
+
 }
 
 IMAGES {
