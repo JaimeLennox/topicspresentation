@@ -1,0 +1,8 @@
+Q: Why is clustering commonly used in a distance relationship?
+A: Need to minimise intra-cluster distance, but maximise inter-cluster distance, and there is an easy way to do this for distances.
+
+Q: How would you combine the two networks mentioned in the pattern association section (noise -> recognition)
+A: Just create two different networks, train them, then attach the output of the denoiser to the input of the recogniser
+
+Q: What are the sub-algorithms for vector quantisation?
+A: Hebbian learning, predictive coding, adaptive back propagation
